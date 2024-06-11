@@ -1,0 +1,3 @@
+# Nome del rilevamento: Pattern di firma
+SYN_FLOOD: Flags=S
+XMAS_SCAN: Flags=FPU
